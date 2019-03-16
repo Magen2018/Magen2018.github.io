@@ -1,6 +1,7 @@
-source 'https://rubygems.org'
-gem 'jekyll'
+source "https://rubygems.org"
 
-group :jekyll_plugins do
-    gem 'jekyll-seo-tag'
-end
+gem "jekyll", "~> 3.2.1"
+gem "jekyll-sitemap"
+gem "jekyll-gist"
+gem 'jekyll-mentions'
+gem 'jekyll-feed'
