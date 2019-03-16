@@ -55,12 +55,13 @@ steam:              username
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
-weibo:             username
+#weibo:             username
 #flickr:            username
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+wechat:             username
 
 # Gems
 gems:
