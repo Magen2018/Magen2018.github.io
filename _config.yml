@@ -1,11 +1,11 @@
 # Site
 title:              Magen
 bio:                '分享收获  记录生活'
-description:        "111111111111"
+description:        "Computer"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/touxiang.jpg'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/cover.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://Magen2018.github.io
@@ -61,7 +61,6 @@ steam:              username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-wechat:             username
 
 # Gems
 gems:
