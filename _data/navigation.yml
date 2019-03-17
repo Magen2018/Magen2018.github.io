@@ -1,7 +1,9 @@
 # Site navigation links
 
-- title: 生活
+- title: Life
   url: /projects/
 
 - title: Baidu
-  url:  https://www.baidu.com
+  url: https://baidu.com
+
+
