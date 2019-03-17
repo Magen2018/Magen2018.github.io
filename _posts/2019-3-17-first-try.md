@@ -3,7 +3,7 @@ layout: post
 title:  "About me"
 date:   2019-03-17
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
-life: true
+summary: true
 tag:
 - post
 - life
