@@ -1,6 +1,6 @@
 ---
-layout: Life
-title: Record the life
-excerpt: "A List of Life"
+layout: post-list
+title: All Posts
+excerpt: "A List of Posts"
 comments: false
 ---
