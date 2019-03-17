@@ -9,5 +9,4 @@ tag:
 - life
 comments: false
 ---
-<img src="C:\Users\13540\Pictures\Saved Pictures\touxiang.jpg"width=10 heigght=10/>
-
+![touxiang](C:\Users\13540\Pictures\Saved Pictures\touxiang.jpg)
