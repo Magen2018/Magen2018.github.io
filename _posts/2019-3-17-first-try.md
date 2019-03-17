@@ -9,4 +9,4 @@ tag:
 - life
 comments: false
 ---
-![touxiang](C:\Users\13540\Pictures\Saved Pictures\touxiang.jpg)
+![touxiang](C:\Users\13540\Pictures\Saved Pictures\touxiang.jpg)![网络安全证书](C:\Users\13540\Pictures\Saved Pictures\网络安全证书.png)
