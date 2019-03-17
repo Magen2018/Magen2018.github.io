@@ -1,7 +1,10 @@
 # Site navigation links
 
-- title: Life
+- title: Project
   url: /projects/
+
+- title: Life
+  url: /Life/
 
 - title: Baidu
   url: https://baidu.com
