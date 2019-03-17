@@ -1,0 +1,26 @@
+# Site settings
+name: Less Or More
+email: 1354017867@qq.com
+author: Magen
+url: 
+resume_site: http://www.hifreud.com/Resume.io/
+github: https://github.com/Magen2018/
+baseurl: "/LessOrMore"
+description: Actually, less is more!
+meta_description: 分享收获  记录生活
+motto: It's our wits that make us men.
+banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: Magen2018
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
